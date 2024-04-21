@@ -1,0 +1,49 @@
+{
+    "name": "Kathbath",
+    "taskType": {
+        "type": "asr"
+    },
+    "description": "Kathbath dataset has 1684 hours of labelled speech data across 12 Indian Languages.",
+    "languages": {
+        "sourceLanguage": "bn"
+    },
+    "collectionSource": [
+        "https://arxiv.org/pdf/2208.11761.pdf"
+    ],
+    "domain": [
+        "general"
+    ],
+    "license": "cc-by-4.0",
+    "submitter": {
+        "name": "Tahir Javed",
+        "oauthId": {
+            "oauthId": "tahir@smail.iitm.ac.in"
+        },
+        "team": [
+            {
+                "name": "Tahir Javed",
+                "aboutMe": "Indian Institute of Technology, Madras"
+            },
+            {
+                "name": "Kaushal Santosh Bhogale",
+                "aboutMe": "Indian Institute of Technology, Madras"
+            },
+            {
+                "name": "Abhigyan Raman",
+                "aboutMe": "AI4Bharat"
+            },
+            {
+                "name": "Anoop Kunchukuttan",
+                "aboutMe": "Microsoft"
+            },
+            {
+                "name": "Pratyush Kumar",
+                "aboutMe": "Microsoft"
+            },
+            {
+                "name": "Mitesh M. Khapra",
+                "aboutMe": "Indian Institute of Technology, Madras"
+            }
+        ]
+    }
+}
